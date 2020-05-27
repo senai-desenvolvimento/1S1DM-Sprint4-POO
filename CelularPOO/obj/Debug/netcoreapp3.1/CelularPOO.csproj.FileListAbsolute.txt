@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.genruntimeconfig.cache

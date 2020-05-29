@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\bin\Debug\netcoreapp3.1\Aula06Heranca.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula06Heranca\obj\Debug\netcoreapp3.1\Aula06Heranca.genruntimeconfig.cache

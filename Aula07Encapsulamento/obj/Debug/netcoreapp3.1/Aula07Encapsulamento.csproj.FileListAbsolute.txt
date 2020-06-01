@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.genruntimeconfig.cache

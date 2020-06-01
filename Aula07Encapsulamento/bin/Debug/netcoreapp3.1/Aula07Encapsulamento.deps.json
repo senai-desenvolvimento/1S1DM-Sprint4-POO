@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula07Encapsulamento/1.0.0": {
+        "runtime": {
+          "Aula07Encapsulamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula07Encapsulamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

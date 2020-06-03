@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.genruntimeconfig.cache

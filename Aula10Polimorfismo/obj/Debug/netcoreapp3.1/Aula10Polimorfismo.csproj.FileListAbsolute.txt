@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.genruntimeconfig.cache

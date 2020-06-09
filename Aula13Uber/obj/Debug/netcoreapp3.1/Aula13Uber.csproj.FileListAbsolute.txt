@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.genruntimeconfig.cache

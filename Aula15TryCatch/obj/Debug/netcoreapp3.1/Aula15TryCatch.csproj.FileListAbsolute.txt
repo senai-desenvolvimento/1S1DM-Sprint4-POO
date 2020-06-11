@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.genruntimeconfig.cache

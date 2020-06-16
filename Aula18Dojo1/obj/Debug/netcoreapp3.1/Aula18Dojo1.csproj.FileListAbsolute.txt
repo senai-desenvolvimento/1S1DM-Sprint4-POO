@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.genruntimeconfig.cache

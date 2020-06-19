@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\bin\Debug\netcoreapp3.1\Aula20_21_Exercicio.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\bin\Debug\netcoreapp3.1\Aula20_21_Exercicio.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\bin\Debug\netcoreapp3.1\Aula20_21_Exercicio.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\bin\Debug\netcoreapp3.1\Aula20_21_Exercicio.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\bin\Debug\netcoreapp3.1\Aula20_21_Exercicio.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\bin\Debug\netcoreapp3.1\Aula20_21_Exercicio.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\obj\Debug\netcoreapp3.1\Aula20_21_Exercicio.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\obj\Debug\netcoreapp3.1\Aula20_21_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\obj\Debug\netcoreapp3.1\Aula20_21_Exercicio.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\obj\Debug\netcoreapp3.1\Aula20_21_Exercicio.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\obj\Debug\netcoreapp3.1\Aula20_21_Exercicio.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\obj\Debug\netcoreapp3.1\Aula20_21_Exercicio.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula20_21_Exercicio\obj\Debug\netcoreapp3.1\Aula20_21_Exercicio.genruntimeconfig.cache

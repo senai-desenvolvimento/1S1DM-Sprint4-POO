@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.genruntimeconfig.cache

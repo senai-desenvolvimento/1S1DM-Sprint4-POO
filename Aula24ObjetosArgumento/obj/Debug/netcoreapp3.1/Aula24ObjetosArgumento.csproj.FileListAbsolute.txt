@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumento.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula24ObjetosArgumento\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumento.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula0402CelularPOO/1.0.0": {
+        "runtime": {
+          "Aula0402CelularPOO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula0402CelularPOO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

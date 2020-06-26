@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.exe
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.dll
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\1S1DM-Sprint4-POO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.genruntimeconfig.cache

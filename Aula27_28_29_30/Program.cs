@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Aula27_28_29_30
 {
@@ -7,11 +8,19 @@ namespace Aula27_28_29_30
         static void Main(string[] args)
         {
             Produto p1 = new Produto();
-            p1.Codigo = 1;
-            p1.Nome = "Gibson";
+            p1.Codigo = 2;
+            p1.Nome = "Fender";
             p1.Preco = 5500f;
 
             p1.Cadastrar(p1);
+
+            List<Produto> lista = p1.Ler();
+
+            foreach (Produto item in lista)
+            {
+                Console.WriteLine($"R$ {item.Preco} - {item.Nome}");
+            }
+
         }
     }
 }

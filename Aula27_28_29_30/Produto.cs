@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 
 namespace Aula27_28_29_30
 {
@@ -61,7 +62,39 @@ namespace Aula27_28_29_30
                 prod.Add(p);
             }
 
+            prod = prod.OrderBy(z => z.Nome).ToList();
+
             return prod;
+        }
+
+        public List<Produto> Filtrar(string _nome){
+            return Ler().FindAll(x => x.Nome == _nome);
+        }
+
+        public void Remover(string _termo)
+        {
+            // Criamos uma lista de linhas para fazer uma espécie de backup 
+            // na memória do sistema
+            List<string> linhas = new List<string>();
+
+            using(StreamReader arquivo = new StreamReader(PATH))
+            {
+                string linha;
+                while((linha = arquivo.ReadLine()) != null){
+                    linhas.Add(linha);
+                }
+
+                linhas.RemoveAll(z => z.Contains(_termo));
+            }
+
+            // Criamos uma forma de reescrever o arquivo sem as linhas removidas
+            using(StreamWriter output = new StreamWriter(PATH))
+            {
+                foreach(string ln in linhas)
+                {
+                    output.Write(ln+"\n");
+                }
+            }
         }
 
         /// <summary>

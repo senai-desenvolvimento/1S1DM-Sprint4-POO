@@ -10,7 +10,6 @@ namespace Aula27_28_29_30
         public int Codigo { get; set; }
         public string Nome { get; set; }
         public float Preco { get; set; }
-
         private const string PATH = "Database/produto.csv";
 
         public Produto()
@@ -83,14 +82,46 @@ namespace Aula27_28_29_30
                 while((linha = arquivo.ReadLine()) != null){
                     linhas.Add(linha);
                 }
-
-                linhas.RemoveAll(z => z.Contains(_termo));
             }
 
+            linhas.RemoveAll(z => z.Contains(_termo));
+
+            ReescreverCSV(linhas);
+        }
+
+        public void Alterar(Produto produtoAlterado){
+
+            // Criamos uma lista de linhas para fazer uma espécie de backup 
+            // na memória do sistema
+            List<string> linhas = new List<string>();
+
+            using(StreamReader arquivo = new StreamReader(PATH))
+            {
+                string linha;
+                while((linha = arquivo.ReadLine()) != null){
+                    linhas.Add(linha);
+                }
+            }
+            // 0        1               2
+            //codigo=3; nome=Gianini6; preco=3500
+            // linhas.RemoveAll(x => x.Split(";")[0].Contains(produtoAlterado.Codigo.ToString()));
+
+            linhas.RemoveAll(z => z.Split(";")[0].Split("=")[1] == produtoAlterado.Codigo.ToString());
+
+            linhas.Add( PrepararLinha( produtoAlterado ) );
+
+            ReescreverCSV(linhas);
+        }
+
+        /// <summary>
+        /// Reescreve o CSV
+        /// </summary>
+        /// <param name="lines">Lista de linhas</param>
+        private void ReescreverCSV(List<string> lines){
             // Criamos uma forma de reescrever o arquivo sem as linhas removidas
             using(StreamWriter output = new StreamWriter(PATH))
             {
-                foreach(string ln in linhas)
+                foreach(string ln in lines)
                 {
                     output.Write(ln+"\n");
                 }

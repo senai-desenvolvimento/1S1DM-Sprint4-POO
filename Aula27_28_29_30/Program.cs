@@ -14,7 +14,14 @@ namespace Aula27_28_29_30
 
             p1.Cadastrar(p1);
 
-            p1.Remover("3500");
+            Produto alterado = new Produto();
+            alterado.Codigo = 3;
+            alterado.Nome = "Ibanez";
+            alterado.Preco = 6800f;
+
+            p1.Alterar(alterado);
+
+            p1.Remover("Gianini5");
 
             List<Produto> lista = p1.Ler();
 
